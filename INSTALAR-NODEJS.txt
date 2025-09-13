@@ -1,0 +1,61 @@
+📥 COMO INSTALAR NODE.JS (NECESSÁRIO APENAS UMA VEZ)
+
+═══════════════════════════════════════════════════════════
+
+🌐 SITE OFICIAL: https://nodejs.org
+
+═══════════════════════════════════════════════════════════
+
+🪟 WINDOWS:
+1. Acesse: https://nodejs.org
+2. Clique no botão verde "Download Node.js (LTS)"
+3. Execute o arquivo baixado (.msi)
+4. Siga as instruções (clique Next, Next, Install)
+5. Reinicie o computador
+6. PRONTO! Execute o CRM normalmente
+
+═══════════════════════════════════════════════════════════
+
+🍎 MAC:
+1. Acesse: https://nodejs.org
+2. Baixe a versão "macOS Installer"
+3. Execute o arquivo .pkg
+4. Siga as instruções de instalação
+5. PRONTO! Execute o CRM normalmente
+
+═══════════════════════════════════════════════════════════
+
+🐧 LINUX (Ubuntu/Debian):
+Abra o terminal e execute:
+sudo apt update
+sudo apt install nodejs npm
+node --version
+
+Ou baixe do site oficial: https://nodejs.org
+
+═══════════════════════════════════════════════════════════
+
+✅ COMO VERIFICAR SE INSTALOU:
+1. Abra o Prompt de Comando (Windows) ou Terminal (Mac/Linux)
+2. Digite: node --version
+3. Se mostrar a versão (ex: v20.10.0) = INSTALADO!
+4. Se der erro = NÃO INSTALADO, repita o processo
+
+═══════════════════════════════════════════════════════════
+
+📝 VERSÃO RECOMENDADA:
+• Node.js 18 ou superior (LTS - Long Term Support)
+• Baixe sempre a versão "LTS" (mais estável)
+
+═══════════════════════════════════════════════════════════
+
+⚠️ IMPORTANTE:
+• É GRATUITO - nunca pague por Node.js
+• Site oficial: nodejs.org (cuidado com sites falsos)
+• Após instalação, reinicie o computador
+• Necessário apenas UMA VEZ por computador
+
+═══════════════════════════════════════════════════════════
+
+🎯 APÓS INSTALAR NODE.JS:
+Execute o arquivo "INICIAR-CRM.bat" e use seu CRM!
