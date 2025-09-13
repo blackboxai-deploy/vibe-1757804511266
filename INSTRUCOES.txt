@@ -1,0 +1,49 @@
+🚀 CRM RAPHAEL GOMES - INSTRUÇÕES RÁPIDAS
+
+═══════════════════════════════════════════
+
+📋 PRIMEIRO USO:
+1. Instale Node.js (https://nodejs.org) - APENAS UMA VEZ
+2. Conecte este pen drive
+3. Execute INICIAR-CRM.bat (Windows) ou INICIAR-CRM.sh (Mac/Linux)
+4. Aguarde o navegador abrir
+5. USE SEU CRM!
+
+═══════════════════════════════════════════
+
+🖱️ COMO INICIAR (após primeira vez):
+• Windows: Clique duplo em "INICIAR-CRM.bat"
+• Mac/Linux: Execute "./INICIAR-CRM.sh" no terminal
+
+═══════════════════════════════════════════
+
+⚠️ IMPORTANTE:
+• NÃO feche a janela preta enquanto usar o CRM
+• Seus dados ficam salvos automaticamente no pen drive
+• Funciona SEM internet após primeira instalação
+• URL: http://localhost:3000
+
+═══════════════════════════════════════════
+
+✅ FUNCIONALIDADES:
+• Dashboard com métricas
+• Gestão de clientes
+• Gestão de leads
+• Pipeline de vendas
+• Sistema de tarefas
+• Relatórios completos
+
+═══════════════════════════════════════════
+
+📞 PROBLEMAS COMUNS:
+• "Node.js não encontrado" → Instale do site nodejs.org
+• "Porta 3000 ocupada" → Reinicie o computador
+• "Não abre navegador" → Acesse manualmente: localhost:3000
+
+═══════════════════════════════════════════
+
+🎯 RESUMO: 
+Instale Node.js → Execute INICIAR-CRM → Use no navegador!
+
+Administrador: Raphael Gomes
+Versão: 1.0 Portátil
